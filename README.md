@@ -1,2 +1,2 @@
 # BancoPy
-Banco feito em Python
+Sistema de Banco feito em Python
